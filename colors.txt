@@ -2,3 +2,5 @@ green
 red
 blue
 yellow
+gray
+black
