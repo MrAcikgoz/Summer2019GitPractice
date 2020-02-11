@@ -1,2 +1,10 @@
 green
-
+red
+blue
+yellow
+gray
+black
+orange
+pink
+purple
+maroon
