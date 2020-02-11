@@ -6,4 +6,5 @@ gray
 black
 orange
 pink
-
+purple
+maroon
